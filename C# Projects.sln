@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_project", "First_project\First_project.csproj", "{BD8FC058-C531-4561-8E9E-3DB44AC0EFCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "First_project", "First_project", "{7869D0C2-AAB7-41B1-A07B-57F3974EBA1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{31D89A28-8B60-4536-8ACE-A7703F5018C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{71C8CDA7-987A-4EDC-9696-7542FB5FE35E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OopPrinciples", "OopPrinciples", "{6648E43E-8D5F-4DB2-BBEB-37A7954ECA20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulation", "Encapsulation", "{A39A85D0-5408-4689-A820-CEE13D86FFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadBankAccount", "First_project\src\src\OopPrinciples\Encapsulation\BadBankAccount\BadBankAccount.csproj", "{E93D24C9-6B8F-4128-B3ED-8E92484F7578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8FC058-C531-4561-8E9E-3DB44AC0EFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8FC058-C531-4561-8E9E-3DB44AC0EFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8FC058-C531-4561-8E9E-3DB44AC0EFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8FC058-C531-4561-8E9E-3DB44AC0EFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93D24C9-6B8F-4128-B3ED-8E92484F7578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93D24C9-6B8F-4128-B3ED-8E92484F7578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93D24C9-6B8F-4128-B3ED-8E92484F7578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93D24C9-6B8F-4128-B3ED-8E92484F7578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD8FC058-C531-4561-8E9E-3DB44AC0EFCE} = {7869D0C2-AAB7-41B1-A07B-57F3974EBA1C}
+		{31D89A28-8B60-4536-8ACE-A7703F5018C4} = {7869D0C2-AAB7-41B1-A07B-57F3974EBA1C}
+		{71C8CDA7-987A-4EDC-9696-7542FB5FE35E} = {31D89A28-8B60-4536-8ACE-A7703F5018C4}
+		{6648E43E-8D5F-4DB2-BBEB-37A7954ECA20} = {71C8CDA7-987A-4EDC-9696-7542FB5FE35E}
+		{A39A85D0-5408-4689-A820-CEE13D86FFA0} = {6648E43E-8D5F-4DB2-BBEB-37A7954ECA20}
+		{E93D24C9-6B8F-4128-B3ED-8E92484F7578} = {A39A85D0-5408-4689-A820-CEE13D86FFA0}
+	EndGlobalSection
+EndGlobal

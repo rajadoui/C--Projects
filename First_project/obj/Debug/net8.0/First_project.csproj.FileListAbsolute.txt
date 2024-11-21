@@ -1,0 +1,14 @@
+C:\Users\mehdi\Desktop\C# Projects\First_project\bin\Debug\net8.0\First_project.exe
+C:\Users\mehdi\Desktop\C# Projects\First_project\bin\Debug\net8.0\First_project.deps.json
+C:\Users\mehdi\Desktop\C# Projects\First_project\bin\Debug\net8.0\First_project.runtimeconfig.json
+C:\Users\mehdi\Desktop\C# Projects\First_project\bin\Debug\net8.0\First_project.dll
+C:\Users\mehdi\Desktop\C# Projects\First_project\bin\Debug\net8.0\First_project.pdb
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\First_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\First_project.AssemblyInfoInputs.cache
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\First_project.AssemblyInfo.cs
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\First_project.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\First_project.dll
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\refint\First_project.dll
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\First_project.pdb
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\First_project.genruntimeconfig.cache
+C:\Users\mehdi\Desktop\C# Projects\First_project\obj\Debug\net8.0\ref\First_project.dll
